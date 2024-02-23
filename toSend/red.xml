@@ -1,0 +1,642 @@
+<Red numEstaciones="32" numEnlaces="80">
+    <Estacion nombreEstacion="stationName000" codigo="0">
+        <Clientes>
+            <Cliente nombreCliente="nameClient000" telefono="55-000-0501000"/>
+            <Cliente nombreCliente="nameClient010" telefono="55-000-0501010"/>
+            <Cliente nombreCliente="nameClient020" telefono="55-000-0501020"/>
+            <Cliente nombreCliente="nameClient030" telefono="55-000-0501030"/>
+            <Cliente nombreCliente="nameClient040" telefono="55-000-0501040"/>
+            <Cliente nombreCliente="nameClient050" telefono="55-000-0501050"/>
+            <Cliente nombreCliente="nameClient060" telefono="55-000-0501060"/>
+            <Cliente nombreCliente="nameClient070" telefono="55-000-0501070"/>
+            <Cliente nombreCliente="nameClient080" telefono="55-000-0501080"/>
+            <Cliente nombreCliente="nameClient090" telefono="55-000-0501090"/>
+        </Clientes>
+        <Enlaces>
+            <Enlace primeraEstacion="0" segundaEstacion="0"/>
+            <Enlace primeraEstacion="0" segundaEstacion="11"/>
+            <Enlace primeraEstacion="0" segundaEstacion="12"/>
+            <Enlace primeraEstacion="0" segundaEstacion="13"/>
+        </Enlaces>
+    </Estacion>
+    <Estacion nombreEstacion="stationName001" codigo="1">
+        <Clientes>
+            <Cliente nombreCliente="nameClient001" telefono="55-001-0501001"/>
+            <Cliente nombreCliente="nameClient011" telefono="55-001-0501011"/>
+            <Cliente nombreCliente="nameClient021" telefono="55-001-0501021"/>
+            <Cliente nombreCliente="nameClient031" telefono="55-001-0501031"/>
+            <Cliente nombreCliente="nameClient041" telefono="55-001-0501041"/>
+            <Cliente nombreCliente="nameClient051" telefono="55-001-0501051"/>
+            <Cliente nombreCliente="nameClient061" telefono="55-001-0501061"/>
+            <Cliente nombreCliente="nameClient071" telefono="55-001-0501071"/>
+            <Cliente nombreCliente="nameClient081" telefono="55-001-0501081"/>
+            <Cliente nombreCliente="nameClient091" telefono="55-001-0501091"/>
+        </Clientes>
+        <Enlaces>
+            <Enlace primeraEstacion="1" segundaEstacion="1"/>
+            <Enlace primeraEstacion="1" segundaEstacion="13"/>
+            <Enlace primeraEstacion="1" segundaEstacion="14"/>
+        </Enlaces>
+    </Estacion>
+    <Estacion nombreEstacion="stationName002" codigo="2">
+        <Clientes>
+            <Cliente nombreCliente="nameClient002" telefono="55-002-0501002"/>
+            <Cliente nombreCliente="nameClient012" telefono="55-002-0501012"/>
+            <Cliente nombreCliente="nameClient022" telefono="55-002-0501022"/>
+            <Cliente nombreCliente="nameClient032" telefono="55-002-0501032"/>
+            <Cliente nombreCliente="nameClient042" telefono="55-002-0501042"/>
+            <Cliente nombreCliente="nameClient052" telefono="55-002-0501052"/>
+            <Cliente nombreCliente="nameClient062" telefono="55-002-0501062"/>
+            <Cliente nombreCliente="nameClient072" telefono="55-002-0501072"/>
+            <Cliente nombreCliente="nameClient082" telefono="55-002-0501082"/>
+            <Cliente nombreCliente="nameClient092" telefono="55-002-0501092"/>
+        </Clientes>
+        <Enlaces>
+            <Enlace primeraEstacion="2" segundaEstacion="2"/>
+            <Enlace primeraEstacion="2" segundaEstacion="4"/>
+            <Enlace primeraEstacion="2" segundaEstacion="6"/>
+            <Enlace primeraEstacion="2" segundaEstacion="7"/>
+        </Enlaces>
+    </Estacion>
+    <Estacion nombreEstacion="stationName003" codigo="3">
+        <Clientes>
+            <Cliente nombreCliente="nameClient003" telefono="55-003-0501003"/>
+            <Cliente nombreCliente="nameClient013" telefono="55-003-0501013"/>
+            <Cliente nombreCliente="nameClient023" telefono="55-003-0501023"/>
+            <Cliente nombreCliente="nameClient033" telefono="55-003-0501033"/>
+            <Cliente nombreCliente="nameClient043" telefono="55-003-0501043"/>
+            <Cliente nombreCliente="nameClient053" telefono="55-003-0501053"/>
+            <Cliente nombreCliente="nameClient063" telefono="55-003-0501063"/>
+            <Cliente nombreCliente="nameClient073" telefono="55-003-0501073"/>
+            <Cliente nombreCliente="nameClient083" telefono="55-003-0501083"/>
+            <Cliente nombreCliente="nameClient093" telefono="55-003-0501093"/>
+        </Clientes>
+        <Enlaces>
+            <Enlace primeraEstacion="3" segundaEstacion="3"/>
+            <Enlace primeraEstacion="3" segundaEstacion="4"/>
+            <Enlace primeraEstacion="3" segundaEstacion="11"/>
+        </Enlaces>
+    </Estacion>
+    <Estacion nombreEstacion="stationName004" codigo="4">
+        <Clientes>
+            <Cliente nombreCliente="nameClient004" telefono="55-004-0501004"/>
+            <Cliente nombreCliente="nameClient014" telefono="55-004-0501014"/>
+            <Cliente nombreCliente="nameClient024" telefono="55-004-0501024"/>
+            <Cliente nombreCliente="nameClient034" telefono="55-004-0501034"/>
+            <Cliente nombreCliente="nameClient044" telefono="55-004-0501044"/>
+            <Cliente nombreCliente="nameClient054" telefono="55-004-0501054"/>
+            <Cliente nombreCliente="nameClient064" telefono="55-004-0501064"/>
+            <Cliente nombreCliente="nameClient074" telefono="55-004-0501074"/>
+            <Cliente nombreCliente="nameClient084" telefono="55-004-0501084"/>
+            <Cliente nombreCliente="nameClient094" telefono="55-004-0501094"/>
+        </Clientes>
+        <Enlaces>
+            <Enlace primeraEstacion="4" segundaEstacion="2"/>
+            <Enlace primeraEstacion="4" segundaEstacion="3"/>
+            <Enlace primeraEstacion="4" segundaEstacion="4"/>
+            <Enlace primeraEstacion="4" segundaEstacion="5"/>
+        </Enlaces>
+    </Estacion>
+    <Estacion nombreEstacion="stationName005" codigo="5">
+        <Clientes>
+            <Cliente nombreCliente="nameClient005" telefono="55-005-0501005"/>
+            <Cliente nombreCliente="nameClient015" telefono="55-005-0501015"/>
+            <Cliente nombreCliente="nameClient025" telefono="55-005-0501025"/>
+            <Cliente nombreCliente="nameClient035" telefono="55-005-0501035"/>
+            <Cliente nombreCliente="nameClient045" telefono="55-005-0501045"/>
+            <Cliente nombreCliente="nameClient055" telefono="55-005-0501055"/>
+            <Cliente nombreCliente="nameClient065" telefono="55-005-0501065"/>
+            <Cliente nombreCliente="nameClient075" telefono="55-005-0501075"/>
+            <Cliente nombreCliente="nameClient085" telefono="55-005-0501085"/>
+            <Cliente nombreCliente="nameClient095" telefono="55-005-0501095"/>
+        </Clientes>
+        <Enlaces>
+            <Enlace primeraEstacion="5" segundaEstacion="4"/>
+            <Enlace primeraEstacion="5" segundaEstacion="5"/>
+            <Enlace primeraEstacion="5" segundaEstacion="6"/>
+            <Enlace primeraEstacion="5" segundaEstacion="7"/>
+            <Enlace primeraEstacion="5" segundaEstacion="8"/>
+        </Enlaces>
+    </Estacion>
+    <Estacion nombreEstacion="stationName006" codigo="6">
+        <Clientes>
+            <Cliente nombreCliente="nameClient006" telefono="55-006-0501006"/>
+            <Cliente nombreCliente="nameClient016" telefono="55-006-0501016"/>
+            <Cliente nombreCliente="nameClient026" telefono="55-006-0501026"/>
+            <Cliente nombreCliente="nameClient036" telefono="55-006-0501036"/>
+            <Cliente nombreCliente="nameClient046" telefono="55-006-0501046"/>
+            <Cliente nombreCliente="nameClient056" telefono="55-006-0501056"/>
+            <Cliente nombreCliente="nameClient066" telefono="55-006-0501066"/>
+            <Cliente nombreCliente="nameClient076" telefono="55-006-0501076"/>
+            <Cliente nombreCliente="nameClient086" telefono="55-006-0501086"/>
+            <Cliente nombreCliente="nameClient096" telefono="55-006-0501096"/>
+        </Clientes>
+        <Enlaces>
+            <Enlace primeraEstacion="6" segundaEstacion="2"/>
+            <Enlace primeraEstacion="6" segundaEstacion="5"/>
+            <Enlace primeraEstacion="6" segundaEstacion="6"/>
+            <Enlace primeraEstacion="6" segundaEstacion="7"/>
+            <Enlace primeraEstacion="6" segundaEstacion="8"/>
+            <Enlace primeraEstacion="6" segundaEstacion="10"/>
+            <Enlace primeraEstacion="6" segundaEstacion="12"/>
+        </Enlaces>
+    </Estacion>
+    <Estacion nombreEstacion="stationName007" codigo="7">
+        <Clientes>
+            <Cliente nombreCliente="nameClient007" telefono="55-007-0501007"/>
+            <Cliente nombreCliente="nameClient017" telefono="55-007-0501017"/>
+            <Cliente nombreCliente="nameClient027" telefono="55-007-0501027"/>
+            <Cliente nombreCliente="nameClient037" telefono="55-007-0501037"/>
+            <Cliente nombreCliente="nameClient047" telefono="55-007-0501047"/>
+            <Cliente nombreCliente="nameClient057" telefono="55-007-0501057"/>
+            <Cliente nombreCliente="nameClient067" telefono="55-007-0501067"/>
+            <Cliente nombreCliente="nameClient077" telefono="55-007-0501077"/>
+            <Cliente nombreCliente="nameClient087" telefono="55-007-0501087"/>
+            <Cliente nombreCliente="nameClient097" telefono="55-007-0501097"/>
+        </Clientes>
+        <Enlaces>
+            <Enlace primeraEstacion="7" segundaEstacion="2"/>
+            <Enlace primeraEstacion="7" segundaEstacion="5"/>
+            <Enlace primeraEstacion="7" segundaEstacion="6"/>
+            <Enlace primeraEstacion="7" segundaEstacion="7"/>
+            <Enlace primeraEstacion="7" segundaEstacion="11"/>
+        </Enlaces>
+    </Estacion>
+    <Estacion nombreEstacion="stationName008" codigo="8">
+        <Clientes>
+            <Cliente nombreCliente="nameClient008" telefono="55-008-0501008"/>
+            <Cliente nombreCliente="nameClient018" telefono="55-008-0501018"/>
+            <Cliente nombreCliente="nameClient028" telefono="55-008-0501028"/>
+            <Cliente nombreCliente="nameClient038" telefono="55-008-0501038"/>
+            <Cliente nombreCliente="nameClient048" telefono="55-008-0501048"/>
+            <Cliente nombreCliente="nameClient058" telefono="55-008-0501058"/>
+            <Cliente nombreCliente="nameClient068" telefono="55-008-0501068"/>
+            <Cliente nombreCliente="nameClient078" telefono="55-008-0501078"/>
+            <Cliente nombreCliente="nameClient088" telefono="55-008-0501088"/>
+            <Cliente nombreCliente="nameClient098" telefono="55-008-0501098"/>
+        </Clientes>
+        <Enlaces>
+            <Enlace primeraEstacion="8" segundaEstacion="5"/>
+            <Enlace primeraEstacion="8" segundaEstacion="6"/>
+            <Enlace primeraEstacion="8" segundaEstacion="8"/>
+            <Enlace primeraEstacion="8" segundaEstacion="12"/>
+        </Enlaces>
+    </Estacion>
+    <Estacion nombreEstacion="stationName009" codigo="9">
+        <Clientes>
+            <Cliente nombreCliente="nameClient009" telefono="55-009-0501009"/>
+            <Cliente nombreCliente="nameClient019" telefono="55-009-0501019"/>
+            <Cliente nombreCliente="nameClient029" telefono="55-009-0501029"/>
+            <Cliente nombreCliente="nameClient039" telefono="55-009-0501039"/>
+            <Cliente nombreCliente="nameClient049" telefono="55-009-0501049"/>
+            <Cliente nombreCliente="nameClient059" telefono="55-009-0501059"/>
+            <Cliente nombreCliente="nameClient069" telefono="55-009-0501069"/>
+            <Cliente nombreCliente="nameClient079" telefono="55-009-0501079"/>
+            <Cliente nombreCliente="nameClient089" telefono="55-009-0501089"/>
+            <Cliente nombreCliente="nameClient099" telefono="55-009-0501099"/>
+        </Clientes>
+        <Enlaces>
+            <Enlace primeraEstacion="9" segundaEstacion="9"/>
+            <Enlace primeraEstacion="9" segundaEstacion="12"/>
+            <Enlace primeraEstacion="9" segundaEstacion="13"/>
+        </Enlaces>
+    </Estacion>
+    <Estacion nombreEstacion="stationName010" codigo="10">
+        <Clientes>
+            <Cliente nombreCliente="nameClient010" telefono="55-010-0501010"/>
+            <Cliente nombreCliente="nameClient020" telefono="55-010-0501020"/>
+            <Cliente nombreCliente="nameClient030" telefono="55-010-0501030"/>
+            <Cliente nombreCliente="nameClient040" telefono="55-010-0501040"/>
+            <Cliente nombreCliente="nameClient050" telefono="55-010-0501050"/>
+            <Cliente nombreCliente="nameClient060" telefono="55-010-0501060"/>
+            <Cliente nombreCliente="nameClient070" telefono="55-010-0501070"/>
+            <Cliente nombreCliente="nameClient080" telefono="55-010-0501080"/>
+            <Cliente nombreCliente="nameClient090" telefono="55-010-0501090"/>
+            <Cliente nombreCliente="nameClient100" telefono="55-010-0501100"/>
+        </Clientes>
+        <Enlaces>
+            <Enlace primeraEstacion="10" segundaEstacion="6"/>
+            <Enlace primeraEstacion="10" segundaEstacion="10"/>
+        </Enlaces>
+    </Estacion>
+    <Estacion nombreEstacion="stationName011" codigo="11">
+        <Clientes>
+            <Cliente nombreCliente="nameClient011" telefono="55-011-0501011"/>
+            <Cliente nombreCliente="nameClient021" telefono="55-011-0501021"/>
+            <Cliente nombreCliente="nameClient031" telefono="55-011-0501031"/>
+            <Cliente nombreCliente="nameClient041" telefono="55-011-0501041"/>
+            <Cliente nombreCliente="nameClient051" telefono="55-011-0501051"/>
+            <Cliente nombreCliente="nameClient061" telefono="55-011-0501061"/>
+            <Cliente nombreCliente="nameClient071" telefono="55-011-0501071"/>
+            <Cliente nombreCliente="nameClient081" telefono="55-011-0501081"/>
+            <Cliente nombreCliente="nameClient091" telefono="55-011-0501091"/>
+            <Cliente nombreCliente="nameClient101" telefono="55-011-0501101"/>
+        </Clientes>
+        <Enlaces>
+            <Enlace primeraEstacion="11" segundaEstacion="0"/>
+            <Enlace primeraEstacion="11" segundaEstacion="3"/>
+            <Enlace primeraEstacion="11" segundaEstacion="7"/>
+            <Enlace primeraEstacion="11" segundaEstacion="11"/>
+        </Enlaces>
+    </Estacion>
+    <Estacion nombreEstacion="stationName012" codigo="12">
+        <Clientes>
+            <Cliente nombreCliente="nameClient012" telefono="55-012-0501012"/>
+            <Cliente nombreCliente="nameClient022" telefono="55-012-0501022"/>
+            <Cliente nombreCliente="nameClient032" telefono="55-012-0501032"/>
+            <Cliente nombreCliente="nameClient042" telefono="55-012-0501042"/>
+            <Cliente nombreCliente="nameClient052" telefono="55-012-0501052"/>
+            <Cliente nombreCliente="nameClient062" telefono="55-012-0501062"/>
+            <Cliente nombreCliente="nameClient072" telefono="55-012-0501072"/>
+            <Cliente nombreCliente="nameClient082" telefono="55-012-0501082"/>
+            <Cliente nombreCliente="nameClient092" telefono="55-012-0501092"/>
+            <Cliente nombreCliente="nameClient102" telefono="55-012-0501102"/>
+        </Clientes>
+        <Enlaces>
+            <Enlace primeraEstacion="12" segundaEstacion="0"/>
+            <Enlace primeraEstacion="12" segundaEstacion="6"/>
+            <Enlace primeraEstacion="12" segundaEstacion="8"/>
+            <Enlace primeraEstacion="12" segundaEstacion="9"/>
+            <Enlace primeraEstacion="12" segundaEstacion="12"/>
+            <Enlace primeraEstacion="12" segundaEstacion="15"/>
+        </Enlaces>
+    </Estacion>
+    <Estacion nombreEstacion="stationName013" codigo="13">
+        <Clientes>
+            <Cliente nombreCliente="nameClient013" telefono="55-013-0501013"/>
+            <Cliente nombreCliente="nameClient023" telefono="55-013-0501023"/>
+            <Cliente nombreCliente="nameClient033" telefono="55-013-0501033"/>
+            <Cliente nombreCliente="nameClient043" telefono="55-013-0501043"/>
+            <Cliente nombreCliente="nameClient053" telefono="55-013-0501053"/>
+            <Cliente nombreCliente="nameClient063" telefono="55-013-0501063"/>
+            <Cliente nombreCliente="nameClient073" telefono="55-013-0501073"/>
+            <Cliente nombreCliente="nameClient083" telefono="55-013-0501083"/>
+            <Cliente nombreCliente="nameClient093" telefono="55-013-0501093"/>
+            <Cliente nombreCliente="nameClient103" telefono="55-013-0501103"/>
+        </Clientes>
+        <Enlaces>
+            <Enlace primeraEstacion="13" segundaEstacion="0"/>
+            <Enlace primeraEstacion="13" segundaEstacion="1"/>
+            <Enlace primeraEstacion="13" segundaEstacion="9"/>
+            <Enlace primeraEstacion="13" segundaEstacion="13"/>
+        </Enlaces>
+    </Estacion>
+    <Estacion nombreEstacion="stationName014" codigo="14">
+        <Clientes>
+            <Cliente nombreCliente="nameClient014" telefono="55-014-0501014"/>
+            <Cliente nombreCliente="nameClient024" telefono="55-014-0501024"/>
+            <Cliente nombreCliente="nameClient034" telefono="55-014-0501034"/>
+            <Cliente nombreCliente="nameClient044" telefono="55-014-0501044"/>
+            <Cliente nombreCliente="nameClient054" telefono="55-014-0501054"/>
+            <Cliente nombreCliente="nameClient064" telefono="55-014-0501064"/>
+            <Cliente nombreCliente="nameClient074" telefono="55-014-0501074"/>
+            <Cliente nombreCliente="nameClient084" telefono="55-014-0501084"/>
+            <Cliente nombreCliente="nameClient094" telefono="55-014-0501094"/>
+            <Cliente nombreCliente="nameClient104" telefono="55-014-0501104"/>
+        </Clientes>
+        <Enlaces>
+            <Enlace primeraEstacion="14" segundaEstacion="1"/>
+            <Enlace primeraEstacion="14" segundaEstacion="14"/>
+        </Enlaces>
+    </Estacion>
+    <Estacion nombreEstacion="stationName015" codigo="15">
+        <Clientes>
+            <Cliente nombreCliente="nameClient015" telefono="55-015-0501015"/>
+            <Cliente nombreCliente="nameClient025" telefono="55-015-0501025"/>
+            <Cliente nombreCliente="nameClient035" telefono="55-015-0501035"/>
+            <Cliente nombreCliente="nameClient045" telefono="55-015-0501045"/>
+            <Cliente nombreCliente="nameClient055" telefono="55-015-0501055"/>
+            <Cliente nombreCliente="nameClient065" telefono="55-015-0501065"/>
+            <Cliente nombreCliente="nameClient075" telefono="55-015-0501075"/>
+            <Cliente nombreCliente="nameClient085" telefono="55-015-0501085"/>
+            <Cliente nombreCliente="nameClient095" telefono="55-015-0501095"/>
+            <Cliente nombreCliente="nameClient105" telefono="55-015-0501105"/>
+        </Clientes>
+        <Enlaces>
+            <Enlace primeraEstacion="15" segundaEstacion="12"/>
+            <Enlace primeraEstacion="15" segundaEstacion="15"/>
+        </Enlaces>
+    </Estacion>
+    <Estacion nombreEstacion="stationName016" codigo="16">
+        <Clientes>
+            <Cliente nombreCliente="nameClient016" telefono="55-016-0501016"/>
+            <Cliente nombreCliente="nameClient026" telefono="55-016-0501026"/>
+            <Cliente nombreCliente="nameClient036" telefono="55-016-0501036"/>
+            <Cliente nombreCliente="nameClient046" telefono="55-016-0501046"/>
+            <Cliente nombreCliente="nameClient056" telefono="55-016-0501056"/>
+            <Cliente nombreCliente="nameClient066" telefono="55-016-0501066"/>
+            <Cliente nombreCliente="nameClient076" telefono="55-016-0501076"/>
+            <Cliente nombreCliente="nameClient086" telefono="55-016-0501086"/>
+            <Cliente nombreCliente="nameClient096" telefono="55-016-0501096"/>
+            <Cliente nombreCliente="nameClient106" telefono="55-016-0501106"/>
+        </Clientes>
+        <Enlaces>
+            <Enlace primeraEstacion="16" segundaEstacion="16"/>
+            <Enlace primeraEstacion="16" segundaEstacion="18"/>
+            <Enlace primeraEstacion="16" segundaEstacion="24"/>
+        </Enlaces>
+    </Estacion>
+    <Estacion nombreEstacion="stationName017" codigo="17">
+        <Clientes>
+            <Cliente nombreCliente="nameClient017" telefono="55-017-0501017"/>
+            <Cliente nombreCliente="nameClient027" telefono="55-017-0501027"/>
+            <Cliente nombreCliente="nameClient037" telefono="55-017-0501037"/>
+            <Cliente nombreCliente="nameClient047" telefono="55-017-0501047"/>
+            <Cliente nombreCliente="nameClient057" telefono="55-017-0501057"/>
+            <Cliente nombreCliente="nameClient067" telefono="55-017-0501067"/>
+            <Cliente nombreCliente="nameClient077" telefono="55-017-0501077"/>
+            <Cliente nombreCliente="nameClient087" telefono="55-017-0501087"/>
+            <Cliente nombreCliente="nameClient097" telefono="55-017-0501097"/>
+            <Cliente nombreCliente="nameClient107" telefono="55-017-0501107"/>
+        </Clientes>
+        <Enlaces>
+            <Enlace primeraEstacion="17" segundaEstacion="17"/>
+            <Enlace primeraEstacion="17" segundaEstacion="19"/>
+            <Enlace primeraEstacion="17" segundaEstacion="24"/>
+            <Enlace primeraEstacion="17" segundaEstacion="25"/>
+            <Enlace primeraEstacion="17" segundaEstacion="28"/>
+            <Enlace primeraEstacion="17" segundaEstacion="30"/>
+        </Enlaces>
+    </Estacion>
+    <Estacion nombreEstacion="stationName018" codigo="18">
+        <Clientes>
+            <Cliente nombreCliente="nameClient018" telefono="55-018-0501018"/>
+            <Cliente nombreCliente="nameClient028" telefono="55-018-0501028"/>
+            <Cliente nombreCliente="nameClient038" telefono="55-018-0501038"/>
+            <Cliente nombreCliente="nameClient048" telefono="55-018-0501048"/>
+            <Cliente nombreCliente="nameClient058" telefono="55-018-0501058"/>
+            <Cliente nombreCliente="nameClient068" telefono="55-018-0501068"/>
+            <Cliente nombreCliente="nameClient078" telefono="55-018-0501078"/>
+            <Cliente nombreCliente="nameClient088" telefono="55-018-0501088"/>
+            <Cliente nombreCliente="nameClient098" telefono="55-018-0501098"/>
+            <Cliente nombreCliente="nameClient108" telefono="55-018-0501108"/>
+        </Clientes>
+        <Enlaces>
+            <Enlace primeraEstacion="18" segundaEstacion="16"/>
+            <Enlace primeraEstacion="18" segundaEstacion="18"/>
+            <Enlace primeraEstacion="18" segundaEstacion="28"/>
+        </Enlaces>
+    </Estacion>
+    <Estacion nombreEstacion="stationName019" codigo="19">
+        <Clientes>
+            <Cliente nombreCliente="nameClient019" telefono="55-019-0501019"/>
+            <Cliente nombreCliente="nameClient029" telefono="55-019-0501029"/>
+            <Cliente nombreCliente="nameClient039" telefono="55-019-0501039"/>
+            <Cliente nombreCliente="nameClient049" telefono="55-019-0501049"/>
+            <Cliente nombreCliente="nameClient059" telefono="55-019-0501059"/>
+            <Cliente nombreCliente="nameClient069" telefono="55-019-0501069"/>
+            <Cliente nombreCliente="nameClient079" telefono="55-019-0501079"/>
+            <Cliente nombreCliente="nameClient089" telefono="55-019-0501089"/>
+            <Cliente nombreCliente="nameClient099" telefono="55-019-0501099"/>
+            <Cliente nombreCliente="nameClient109" telefono="55-019-0501109"/>
+        </Clientes>
+        <Enlaces>
+            <Enlace primeraEstacion="19" segundaEstacion="17"/>
+            <Enlace primeraEstacion="19" segundaEstacion="19"/>
+            <Enlace primeraEstacion="19" segundaEstacion="21"/>
+            <Enlace primeraEstacion="19" segundaEstacion="26"/>
+            <Enlace primeraEstacion="19" segundaEstacion="28"/>
+        </Enlaces>
+    </Estacion>
+    <Estacion nombreEstacion="stationName020" codigo="20">
+        <Clientes>
+            <Cliente nombreCliente="nameClient020" telefono="55-020-0501020"/>
+            <Cliente nombreCliente="nameClient030" telefono="55-020-0501030"/>
+            <Cliente nombreCliente="nameClient040" telefono="55-020-0501040"/>
+            <Cliente nombreCliente="nameClient050" telefono="55-020-0501050"/>
+            <Cliente nombreCliente="nameClient060" telefono="55-020-0501060"/>
+            <Cliente nombreCliente="nameClient070" telefono="55-020-0501070"/>
+            <Cliente nombreCliente="nameClient080" telefono="55-020-0501080"/>
+            <Cliente nombreCliente="nameClient090" telefono="55-020-0501090"/>
+            <Cliente nombreCliente="nameClient100" telefono="55-020-0501100"/>
+            <Cliente nombreCliente="nameClient110" telefono="55-020-0501110"/>
+        </Clientes>
+        <Enlaces>
+            <Enlace primeraEstacion="20" segundaEstacion="20"/>
+            <Enlace primeraEstacion="20" segundaEstacion="27"/>
+            <Enlace primeraEstacion="20" segundaEstacion="31"/>
+        </Enlaces>
+    </Estacion>
+    <Estacion nombreEstacion="stationName021" codigo="21">
+        <Clientes>
+            <Cliente nombreCliente="nameClient021" telefono="55-021-0501021"/>
+            <Cliente nombreCliente="nameClient031" telefono="55-021-0501031"/>
+            <Cliente nombreCliente="nameClient041" telefono="55-021-0501041"/>
+            <Cliente nombreCliente="nameClient051" telefono="55-021-0501051"/>
+            <Cliente nombreCliente="nameClient061" telefono="55-021-0501061"/>
+            <Cliente nombreCliente="nameClient071" telefono="55-021-0501071"/>
+            <Cliente nombreCliente="nameClient081" telefono="55-021-0501081"/>
+            <Cliente nombreCliente="nameClient091" telefono="55-021-0501091"/>
+            <Cliente nombreCliente="nameClient101" telefono="55-021-0501101"/>
+            <Cliente nombreCliente="nameClient111" telefono="55-021-0501111"/>
+        </Clientes>
+        <Enlaces>
+            <Enlace primeraEstacion="21" segundaEstacion="19"/>
+            <Enlace primeraEstacion="21" segundaEstacion="21"/>
+            <Enlace primeraEstacion="21" segundaEstacion="25"/>
+            <Enlace primeraEstacion="21" segundaEstacion="26"/>
+        </Enlaces>
+    </Estacion>
+    <Estacion nombreEstacion="stationName022" codigo="22">
+        <Clientes>
+            <Cliente nombreCliente="nameClient022" telefono="55-022-0501022"/>
+            <Cliente nombreCliente="nameClient032" telefono="55-022-0501032"/>
+            <Cliente nombreCliente="nameClient042" telefono="55-022-0501042"/>
+            <Cliente nombreCliente="nameClient052" telefono="55-022-0501052"/>
+            <Cliente nombreCliente="nameClient062" telefono="55-022-0501062"/>
+            <Cliente nombreCliente="nameClient072" telefono="55-022-0501072"/>
+            <Cliente nombreCliente="nameClient082" telefono="55-022-0501082"/>
+            <Cliente nombreCliente="nameClient092" telefono="55-022-0501092"/>
+            <Cliente nombreCliente="nameClient102" telefono="55-022-0501102"/>
+            <Cliente nombreCliente="nameClient112" telefono="55-022-0501112"/>
+        </Clientes>
+        <Enlaces>
+            <Enlace primeraEstacion="22" segundaEstacion="22"/>
+            <Enlace primeraEstacion="22" segundaEstacion="26"/>
+            <Enlace primeraEstacion="22" segundaEstacion="29"/>
+        </Enlaces>
+    </Estacion>
+    <Estacion nombreEstacion="stationName023" codigo="23">
+        <Clientes>
+            <Cliente nombreCliente="nameClient023" telefono="55-023-0501023"/>
+            <Cliente nombreCliente="nameClient033" telefono="55-023-0501033"/>
+            <Cliente nombreCliente="nameClient043" telefono="55-023-0501043"/>
+            <Cliente nombreCliente="nameClient053" telefono="55-023-0501053"/>
+            <Cliente nombreCliente="nameClient063" telefono="55-023-0501063"/>
+            <Cliente nombreCliente="nameClient073" telefono="55-023-0501073"/>
+            <Cliente nombreCliente="nameClient083" telefono="55-023-0501083"/>
+            <Cliente nombreCliente="nameClient093" telefono="55-023-0501093"/>
+            <Cliente nombreCliente="nameClient103" telefono="55-023-0501103"/>
+            <Cliente nombreCliente="nameClient113" telefono="55-023-0501113"/>
+        </Clientes>
+        <Enlaces>
+            <Enlace primeraEstacion="23" segundaEstacion="23"/>
+            <Enlace primeraEstacion="23" segundaEstacion="26"/>
+            <Enlace primeraEstacion="23" segundaEstacion="31"/>
+        </Enlaces>
+    </Estacion>
+    <Estacion nombreEstacion="stationName024" codigo="24">
+        <Clientes>
+            <Cliente nombreCliente="nameClient024" telefono="55-024-0501024"/>
+            <Cliente nombreCliente="nameClient034" telefono="55-024-0501034"/>
+            <Cliente nombreCliente="nameClient044" telefono="55-024-0501044"/>
+            <Cliente nombreCliente="nameClient054" telefono="55-024-0501054"/>
+            <Cliente nombreCliente="nameClient064" telefono="55-024-0501064"/>
+            <Cliente nombreCliente="nameClient074" telefono="55-024-0501074"/>
+            <Cliente nombreCliente="nameClient084" telefono="55-024-0501084"/>
+            <Cliente nombreCliente="nameClient094" telefono="55-024-0501094"/>
+            <Cliente nombreCliente="nameClient104" telefono="55-024-0501104"/>
+            <Cliente nombreCliente="nameClient114" telefono="55-024-0501114"/>
+        </Clientes>
+        <Enlaces>
+            <Enlace primeraEstacion="24" segundaEstacion="16"/>
+            <Enlace primeraEstacion="24" segundaEstacion="17"/>
+            <Enlace primeraEstacion="24" segundaEstacion="24"/>
+            <Enlace primeraEstacion="24" segundaEstacion="26"/>
+            <Enlace primeraEstacion="24" segundaEstacion="29"/>
+        </Enlaces>
+    </Estacion>
+    <Estacion nombreEstacion="stationName025" codigo="25">
+        <Clientes>
+            <Cliente nombreCliente="nameClient025" telefono="55-025-0501025"/>
+            <Cliente nombreCliente="nameClient035" telefono="55-025-0501035"/>
+            <Cliente nombreCliente="nameClient045" telefono="55-025-0501045"/>
+            <Cliente nombreCliente="nameClient055" telefono="55-025-0501055"/>
+            <Cliente nombreCliente="nameClient065" telefono="55-025-0501065"/>
+            <Cliente nombreCliente="nameClient075" telefono="55-025-0501075"/>
+            <Cliente nombreCliente="nameClient085" telefono="55-025-0501085"/>
+            <Cliente nombreCliente="nameClient095" telefono="55-025-0501095"/>
+            <Cliente nombreCliente="nameClient105" telefono="55-025-0501105"/>
+            <Cliente nombreCliente="nameClient115" telefono="55-025-0501115"/>
+        </Clientes>
+        <Enlaces>
+            <Enlace primeraEstacion="25" segundaEstacion="17"/>
+            <Enlace primeraEstacion="25" segundaEstacion="21"/>
+            <Enlace primeraEstacion="25" segundaEstacion="25"/>
+            <Enlace primeraEstacion="25" segundaEstacion="29"/>
+        </Enlaces>
+    </Estacion>
+    <Estacion nombreEstacion="stationName026" codigo="26">
+        <Clientes>
+            <Cliente nombreCliente="nameClient026" telefono="55-026-0501026"/>
+            <Cliente nombreCliente="nameClient036" telefono="55-026-0501036"/>
+            <Cliente nombreCliente="nameClient046" telefono="55-026-0501046"/>
+            <Cliente nombreCliente="nameClient056" telefono="55-026-0501056"/>
+            <Cliente nombreCliente="nameClient066" telefono="55-026-0501066"/>
+            <Cliente nombreCliente="nameClient076" telefono="55-026-0501076"/>
+            <Cliente nombreCliente="nameClient086" telefono="55-026-0501086"/>
+            <Cliente nombreCliente="nameClient096" telefono="55-026-0501096"/>
+            <Cliente nombreCliente="nameClient106" telefono="55-026-0501106"/>
+            <Cliente nombreCliente="nameClient116" telefono="55-026-0501116"/>
+        </Clientes>
+        <Enlaces>
+            <Enlace primeraEstacion="26" segundaEstacion="19"/>
+            <Enlace primeraEstacion="26" segundaEstacion="21"/>
+            <Enlace primeraEstacion="26" segundaEstacion="22"/>
+            <Enlace primeraEstacion="26" segundaEstacion="23"/>
+            <Enlace primeraEstacion="26" segundaEstacion="24"/>
+            <Enlace primeraEstacion="26" segundaEstacion="26"/>
+            <Enlace primeraEstacion="26" segundaEstacion="31"/>
+        </Enlaces>
+    </Estacion>
+    <Estacion nombreEstacion="stationName027" codigo="27">
+        <Clientes>
+            <Cliente nombreCliente="nameClient027" telefono="55-027-0501027"/>
+            <Cliente nombreCliente="nameClient037" telefono="55-027-0501037"/>
+            <Cliente nombreCliente="nameClient047" telefono="55-027-0501047"/>
+            <Cliente nombreCliente="nameClient057" telefono="55-027-0501057"/>
+            <Cliente nombreCliente="nameClient067" telefono="55-027-0501067"/>
+            <Cliente nombreCliente="nameClient077" telefono="55-027-0501077"/>
+            <Cliente nombreCliente="nameClient087" telefono="55-027-0501087"/>
+            <Cliente nombreCliente="nameClient097" telefono="55-027-0501097"/>
+            <Cliente nombreCliente="nameClient107" telefono="55-027-0501107"/>
+            <Cliente nombreCliente="nameClient117" telefono="55-027-0501117"/>
+        </Clientes>
+        <Enlaces>
+            <Enlace primeraEstacion="27" segundaEstacion="20"/>
+            <Enlace primeraEstacion="27" segundaEstacion="27"/>
+        </Enlaces>
+    </Estacion>
+    <Estacion nombreEstacion="stationName028" codigo="28">
+        <Clientes>
+            <Cliente nombreCliente="nameClient028" telefono="55-028-0501028"/>
+            <Cliente nombreCliente="nameClient038" telefono="55-028-0501038"/>
+            <Cliente nombreCliente="nameClient048" telefono="55-028-0501048"/>
+            <Cliente nombreCliente="nameClient058" telefono="55-028-0501058"/>
+            <Cliente nombreCliente="nameClient068" telefono="55-028-0501068"/>
+            <Cliente nombreCliente="nameClient078" telefono="55-028-0501078"/>
+            <Cliente nombreCliente="nameClient088" telefono="55-028-0501088"/>
+            <Cliente nombreCliente="nameClient098" telefono="55-028-0501098"/>
+            <Cliente nombreCliente="nameClient108" telefono="55-028-0501108"/>
+            <Cliente nombreCliente="nameClient118" telefono="55-028-0501118"/>
+        </Clientes>
+        <Enlaces>
+            <Enlace primeraEstacion="28" segundaEstacion="17"/>
+            <Enlace primeraEstacion="28" segundaEstacion="18"/>
+            <Enlace primeraEstacion="28" segundaEstacion="19"/>
+            <Enlace primeraEstacion="28" segundaEstacion="28"/>
+            <Enlace primeraEstacion="28" segundaEstacion="29"/>
+            <Enlace primeraEstacion="28" segundaEstacion="30"/>
+        </Enlaces>
+    </Estacion>
+    <Estacion nombreEstacion="stationName029" codigo="29">
+        <Clientes>
+            <Cliente nombreCliente="nameClient029" telefono="55-029-0501029"/>
+            <Cliente nombreCliente="nameClient039" telefono="55-029-0501039"/>
+            <Cliente nombreCliente="nameClient049" telefono="55-029-0501049"/>
+            <Cliente nombreCliente="nameClient059" telefono="55-029-0501059"/>
+            <Cliente nombreCliente="nameClient069" telefono="55-029-0501069"/>
+            <Cliente nombreCliente="nameClient079" telefono="55-029-0501079"/>
+            <Cliente nombreCliente="nameClient089" telefono="55-029-0501089"/>
+            <Cliente nombreCliente="nameClient099" telefono="55-029-0501099"/>
+            <Cliente nombreCliente="nameClient109" telefono="55-029-0501109"/>
+            <Cliente nombreCliente="nameClient119" telefono="55-029-0501119"/>
+        </Clientes>
+        <Enlaces>
+            <Enlace primeraEstacion="29" segundaEstacion="22"/>
+            <Enlace primeraEstacion="29" segundaEstacion="24"/>
+            <Enlace primeraEstacion="29" segundaEstacion="25"/>
+            <Enlace primeraEstacion="29" segundaEstacion="28"/>
+            <Enlace primeraEstacion="29" segundaEstacion="29"/>
+        </Enlaces>
+    </Estacion>
+    <Estacion nombreEstacion="stationName030" codigo="30">
+        <Clientes>
+            <Cliente nombreCliente="nameClient030" telefono="55-030-0501030"/>
+            <Cliente nombreCliente="nameClient040" telefono="55-030-0501040"/>
+            <Cliente nombreCliente="nameClient050" telefono="55-030-0501050"/>
+            <Cliente nombreCliente="nameClient060" telefono="55-030-0501060"/>
+            <Cliente nombreCliente="nameClient070" telefono="55-030-0501070"/>
+            <Cliente nombreCliente="nameClient080" telefono="55-030-0501080"/>
+            <Cliente nombreCliente="nameClient090" telefono="55-030-0501090"/>
+            <Cliente nombreCliente="nameClient100" telefono="55-030-0501100"/>
+            <Cliente nombreCliente="nameClient110" telefono="55-030-0501110"/>
+            <Cliente nombreCliente="nameClient120" telefono="55-030-0501120"/>
+        </Clientes>
+        <Enlaces>
+            <Enlace primeraEstacion="30" segundaEstacion="17"/>
+            <Enlace primeraEstacion="30" segundaEstacion="28"/>
+            <Enlace primeraEstacion="30" segundaEstacion="30"/>
+        </Enlaces>
+    </Estacion>
+    <Estacion nombreEstacion="stationName031" codigo="31">
+        <Clientes>
+            <Cliente nombreCliente="nameClient031" telefono="55-031-0501031"/>
+            <Cliente nombreCliente="nameClient041" telefono="55-031-0501041"/>
+            <Cliente nombreCliente="nameClient051" telefono="55-031-0501051"/>
+            <Cliente nombreCliente="nameClient061" telefono="55-031-0501061"/>
+            <Cliente nombreCliente="nameClient071" telefono="55-031-0501071"/>
+            <Cliente nombreCliente="nameClient081" telefono="55-031-0501081"/>
+            <Cliente nombreCliente="nameClient091" telefono="55-031-0501091"/>
+            <Cliente nombreCliente="nameClient101" telefono="55-031-0501101"/>
+            <Cliente nombreCliente="nameClient111" telefono="55-031-0501111"/>
+            <Cliente nombreCliente="nameClient121" telefono="55-031-0501121"/>
+        </Clientes>
+        <Enlaces>
+            <Enlace primeraEstacion="31" segundaEstacion="20"/>
+            <Enlace primeraEstacion="31" segundaEstacion="23"/>
+            <Enlace primeraEstacion="31" segundaEstacion="26"/>
+            <Enlace primeraEstacion="31" segundaEstacion="31"/>
+        </Enlaces>
+    </Estacion>
+</Red>
